@@ -4,6 +4,10 @@
   Based in Isfahan, Iran
 </p>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/239102342?v=4" width="180" alt="Ahmad Golbooee">
+</p>
+
 ## About
 
 I'm a software developer and physics student at Isfahan University of Technology (IUT). I enjoy turning ideas into working software and exploring the intersection of math, physics, and code.
