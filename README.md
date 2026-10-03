@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img width="1011" height="1280" alt="AhmadGolbooee" src="https://github.com/user-attachments/assets/bb4a02a9-4cda-450b-bd53-a40ac962774b" />
+  <img src="https://avatars.githubusercontent.com/u/337410342?v=4" width="160" height="160" style="border-radius:50%; object-fit:cover" alt="Ahmad Golbooee">
 </p>
 
 ## About
