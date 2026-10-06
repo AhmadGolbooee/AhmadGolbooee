@@ -27,15 +27,15 @@ interfaces that stay usable in Persian as well as in English.
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [devflow-web](https://github.com/OwlTeam/devflow-web) | Web client for an open-source team task manager | Next.js, React, Tailwind |
-| [devflow-realtime](https://github.com/OwlTeam/devflow-realtime) | Live updates over WebSocket | React, WebSocket |
-| [devflow-qa](https://github.com/OwlTeam/devflow-qa) | Contract, load and coverage checks | k6, pytest |
+| [devflow-web](https://github.com/OwlGuild/devflow-web) | Web client for an open-source team task manager | Next.js, React, Tailwind |
+| [devflow-realtime](https://github.com/OwlGuild/devflow-realtime) | Live updates over WebSocket | React, WebSocket |
+| [devflow-qa](https://github.com/OwlGuild/devflow-qa) | Contract, load and coverage checks | k6, pytest |
 
-Both maintainers of [OwlTeam](https://github.com/OwlTeam).
+Both maintainers of [OwlGuild](https://github.com/OwlGuild).
 
 ## Currently
 
-- **Building:** The DevFlow web client at OwlTeam
+- **Building:** The DevFlow web client at OwlGuild
 - **Learning:** State management, accessibility, RTL layout
 - **Reading:** Component design and interface notes
 
