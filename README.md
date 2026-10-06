@@ -1,6 +1,6 @@
 <h1 align="center">Ahmad Golbooee</h1>
 <p align="center">
-  <strong>Software Developer</strong> &middot; Physics Student at Isfahan University of Technology<br/>
+  <strong>Frontend Developer</strong> &middot; Physics Student at Isfahan University of Technology<br/>
   Based in Isfahan, Iran
 </p>
 
@@ -10,27 +10,34 @@
 
 ## About
 
-I'm a software developer and physics student at Isfahan University of Technology (IUT). I enjoy turning ideas into working software and exploring the intersection of math, physics, and code.
+I'm a frontend developer and physics student at Isfahan University of Technology (IUT). I like
+the part where a well-shaped component makes a complicated screen feel obvious, and I care about
+interfaces that stay usable in Persian as well as in English.
 
 ## Toolbox
 
 | Category | Items |
 | --- | --- |
-| Languages | C, C++, Python |
-| Frameworks / Libraries | NumPy, Matplotlib |
-| Tools & Platforms | Git, GitHub, VS Code |
+| Languages | TypeScript, JavaScript, HTML, CSS |
+| Frameworks / Libraries | Next.js, React, Tailwind CSS |
+| Realtime / Data | WebSocket, REST |
+| Tools & Platforms | Docker, Git, GitHub, CI |
 
 ## Projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| [AhmadGolbooee](https://github.com/AhmadGolbooee/AhmadGolbooee) | Profile README repository | Markdown |
+| [devflow-web](https://github.com/OwlTeam/devflow-web) | Web client for an open-source team task manager | Next.js, React, Tailwind |
+| [devflow-realtime](https://github.com/OwlTeam/devflow-realtime) | Live updates over WebSocket | React, WebSocket |
+| [devflow-qa](https://github.com/OwlTeam/devflow-qa) | Contract, load and coverage checks | k6, pytest |
+
+Both maintainers of [OwlTeam](https://github.com/OwlTeam).
 
 ## Currently
 
-- **Building:** Small tools to solve physics & coding problems
-- **Learning:** Data structures & algorithms, computational physics
-- **Reading:** Technical books and research notes
+- **Building:** The DevFlow web client at OwlTeam
+- **Learning:** State management, accessibility, RTL layout
+- **Reading:** Component design and interface notes
 
 ## Contact
 
